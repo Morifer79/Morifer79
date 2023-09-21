@@ -15,17 +15,13 @@
 
 ---
 
-<div align="center">
 - 🌱 I’m currently learning Redux  
 - 📧 How to reach me: morifer13@gmail.com  
 - ⚡ Fun fact: I'm clumsily killing time, which is killing me masterfully
-</div>
   
 ---
 
-<div align="center">
-   :hammer_and_wrench: Languages and Tools :
-</div>
+### :hammer_and_wrench: Languages and Tools :
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
