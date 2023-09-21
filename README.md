@@ -41,38 +41,38 @@
 
 ### :fire: My Stats :
 
-<div align="center">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Morifer79&theme=dark&background=000000)](https://git.io/streak-stats)</div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Morifer79&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<div align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Morifer79&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Morifer79&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ### Group projects:
 
-📚 [Bookshelf](https://morifer79.github.io/code-jedi-project-02/)
+📚 [Bookshelf](https://morifer79.github.io/code-jedi-project-02/)  
 ⌚ [The Watch Spot](https://djuliia.github.io/project-group-6/)
 
 ---
 
 ### My first project:
 
-👨‍💻 [Web Studio](https://morifer79.github.io/goit-markup-hw-07/)
+👨‍💻 [Web Studio](https://morifer79.github.io/goit-markup-hw-07/)  
 🗣️ [Voice Assistant](https://morifer79.github.io/maviAI/)
 
 ---
 
 ### My first React apps:
 
-🎥 [Movie Finder](https://morifer79.github.io/goit-react-hw-05-movies/)
-📖 [Phonebook](https://morifer79.github.io/goit-react-hw-04-phonebook/)
-📊 [Feedback](https://morifer79.github.io/goit-react-hw-04-feedback/)
-🕵️ [Image Finder](https://morifer79.github.io/goit-react-hw-04-images/)
+🎥 [Movie Finder](https://morifer79.github.io/goit-react-hw-05-movies/)  
+📖 [Phonebook](https://morifer79.github.io/goit-react-hw-04-phonebook/)  
+📊 [Feedback](https://morifer79.github.io/goit-react-hw-04-feedback/)  
+🕵️ [Image Finder](https://morifer79.github.io/goit-react-hw-04-images/)  
 🏗️ [Components](https://github.com/Morifer79/goit-react-hw-01-components)
 
 ---
 
 ### My first JS apps:
 
-🔎 [Search Engine](https://morifer79.github.io/goit-js-hw-11/)
-🐱 [Cat Breeds](https://morifer79.github.io/goit-js-hw-10/)
+🔎 [Search Engine](https://morifer79.github.io/goit-js-hw-11/)  
+🐱 [Cat Breeds](https://morifer79.github.io/goit-js-hw-10/)  
 🏖️ [Images Gallery](https://morifer79.github.io/goit-js-hw-08/01-gallery.html)
