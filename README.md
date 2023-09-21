@@ -5,10 +5,10 @@
 ---
 
 <div id="badges" align="center">
-  <a href="https://t.me/morifer13"><img src="https://img.shields.io/badge/Telegram-blue?style=plastic&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
-  <a href="https://vb.me/letsChatOnViber"><img src="https://img.shields.io/badge/Viber-blueviolet?style=plastic&logo=viber&logoColor=white" alt="Viber Badge"/></a>
-  <a href="https://wa.me/qr/GILNVEA45WWKE1"><img src="https://img.shields.io/badge/WhatsApp-limegreen?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/></a>
-  <a href="https://www.instagram.com/aratama79/?utm_source=qr&igshid=YzU1NGVlODEzOA%3D%3D"><img src="https://img.shields.io/badge/Instagram-mediumvioletred?style=plastic&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
+  <a href="https://t.me/morifer13" target="_blank"><img src="https://img.shields.io/badge/Telegram-blue?style=plastic&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
+  <a href="https://vb.me/letsChatOnViber" target="_blank"><img src="https://img.shields.io/badge/Viber-blueviolet?style=plastic&logo=viber&logoColor=white" alt="Viber Badge"/></a>
+  <a href="https://wa.me/qr/GILNVEA45WWKE1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-limegreen?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/></a>
+  <a href="https://www.instagram.com/aratama79/?utm_source=qr&igshid=YzU1NGVlODEzOA%3D%3D" target="_blank"><img src="https://img.shields.io/badge/Instagram-mediumvioletred?style=plastic&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
 </div>
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=Morifer79&style=plastic&color=yellow" alt=""/></div>
