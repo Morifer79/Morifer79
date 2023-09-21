@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bad+Script&size=25&pause=1000&multiline=true&width=436&height=100&lines=Hello!+My+name+is+Gennadii+Laktionov+.;I%E2%80%99m+beginer+Frontend+Developer+from+Ukraine;And+I+welcome+you+to+my+page+%E2%9C%8C" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bad+Script&size=25&pause=1000&multiline=true&width=436&height=100&lines=Hello!+My+name+is+Gennadii+Laktionov;I%E2%80%99m+beginer+Frontend+Developer+from+Ukraine;And+I+welcome+you+to+my+page+%E2%9C%8C" alt="Typing SVG" /></a>
 </div>
 
 ---
@@ -35,8 +35,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/354601/zeplin.svg" title="Zeplin" **alt="Zeplin" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-cs4.svg" title="Photoshop" **alt="Photoshop" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/452109/sublime-text.svg" title="SublimeText3" **alt="SublimeText3" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
 </div>
 
 ---
