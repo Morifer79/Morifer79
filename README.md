@@ -15,7 +15,7 @@
 
 ---
 
-- 🌱 I’m currently learning Redux  
+- 🌱 Now I'm studying at GOIT on the Full Stack Developer course and starting Redux
 - 📧 How to reach me: morifer13@gmail.com  
 - ⚡ Fun fact: I'm clumsily killing time, which is killing me masterfully
   
@@ -24,18 +24,19 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/374167/vite.svg" title="Vite" **alt="Vite" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/331724/github-code-source.svg" title="Github" **alt="Github" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/354601/zeplin.svg" title="Zeplin" **alt="Zeplin" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-cs4.svg" title="Photoshop" **alt="Photoshop" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="Npm" **alt="Npm" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/452109/sublime-text.svg" title="SublimeText3" **alt="SublimeText3" width="40" height="40"/>
 </div>
 
 ---
