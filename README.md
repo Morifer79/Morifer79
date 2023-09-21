@@ -16,15 +16,15 @@
 ---
 
 <div align="center">
-- 🌱 I’m currently learning Redux
-- 📧 How to reach me: morifer13@gmail.com
+- 🌱 I’m currently learning Redux  
+- 📧 How to reach me: morifer13@gmail.com  
 - ⚡ Fun fact: I'm clumsily killing time, which is killing me masterfully
 </div>
   
 ---
 
 <div align="center">
-  ### :hammer_and_wrench: Languages and Tools :
+   :hammer_and_wrench: Languages and Tools :
 </div>
 
 <div align="center">
