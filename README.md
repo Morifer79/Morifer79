@@ -83,7 +83,7 @@
   <summary> 🎵 Music :</summary>
 <table>
     <tr>
-      <td><a href="https://www.youtube.com/watch?v=EXXMtKPfuzY&list=FLDXOdlrRZYftqWf2dSHySXw&index=1">
+      <td><a href="https://www.youtube.com/watch?v=EXXMtKPfuzY&list=FLDXOdlrRZYftqWf2dSHySXw&index=1" target="_blank">
  <img src="https://img.shields.io/badge/Fade_Away-white?style=plastic&label=Baltra&labelColor=red&logo=youtube" alt="Youtube Badge"/>
 </a></td>
       <td><a href="https://www.youtube.com/watch?v=4FyTx_yeHXo&list=FLDXOdlrRZYftqWf2dSHySXw&index=3">
