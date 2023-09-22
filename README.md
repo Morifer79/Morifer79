@@ -15,13 +15,13 @@
 
 ---
 
-◦ 🌱 Now I'm studying at GOIT on the Full Stack Developer course and starting whiteux  
-◦ 📧 How to reach me: morifer13@gmail.com  
-◦ ⚡ Fun fact: I'm clumsily killing time, which is killing me masterfully
+◦ 🌱 ℕ𝕠𝕨 𝕀'𝕞 𝕤𝕥𝕦𝕕𝕪𝕚𝕟𝕘 𝕒𝕥 𝔾𝕆𝕀𝕋 𝕠𝕟 𝕥𝕙𝕖 𝔽𝕦𝕝𝕝 𝕊𝕥𝕒𝕔𝕜 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 𝕔𝕠𝕦𝕣𝕤𝕖 𝕒𝕟𝕕 𝕤𝕥𝕒𝕣𝕥𝕚𝕟𝕘 ℝ𝕖𝕕𝕦𝕩  
+◦ 📧 ℍ𝕠𝕨 𝕥𝕠 𝕣𝕖𝕒𝕔𝕙 𝕞𝕖: 𝕞𝕠𝕣𝕚𝕗𝕖𝕣𝟙𝟛@𝕘𝕞𝕒𝕚𝕝.𝕔𝕠𝕞  
+◦ ⚡ 𝔽𝕦𝕟 𝕗𝕒𝕔𝕥: 𝕀'𝕞 𝕔𝕝𝕦𝕞𝕤𝕚𝕝𝕪 𝕜𝕚𝕝𝕝𝕚𝕟𝕘 𝕥𝕚𝕞𝕖, 𝕨𝕙𝕚𝕔𝕙 𝕚𝕤 𝕜𝕚𝕝𝕝𝕚𝕟𝕘 𝕞𝕖 𝕞𝕒𝕤𝕥𝕖𝕣𝕗𝕦𝕝𝕝𝕪
   
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: 𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤 𝕒𝕟𝕕 𝕋𝕠𝕠𝕝𝕤 :
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -41,46 +41,54 @@
 
 ---
 
-### :fire: My Stats :
+### :fire: 𝕄𝕪 𝕊𝕥𝕒𝕥𝕤 :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Morifer79&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-### Group projects:
+### 𝔾𝕣𝕠𝕦𝕡 𝕡𝕣𝕠𝕛𝕖𝕔𝕥𝕤:
 
-📚 [Bookshelf](https://morifer79.github.io/code-jedi-project-02/)  
-⌚ [The Watch Spot](https://djuliia.github.io/project-group-6/)
-
----
-
-### My first project:
-
-👨‍💻 [Web Studio](https://morifer79.github.io/goit-markup-hw-07/)  
-🗣️ [Voice Assistant](https://morifer79.github.io/maviAI/)
-
----
-
-### My first React apps:
-
-🎥 [Movie Finder](https://morifer79.github.io/goit-react-hw-05-movies/)  
-📖 [Phonebook](https://morifer79.github.io/goit-react-hw-04-phonebook/)  
-📊 [Feedback](https://morifer79.github.io/goit-react-hw-04-feedback/)  
-🕵️ [Image Finder](https://morifer79.github.io/goit-react-hw-04-images/)  
-🏗️ [Components](https://github.com/Morifer79/goit-react-hw-01-components)
+<a href="https://github.com/Djuliia"><img src="https://img.shields.io/badge/Djuliia-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
+<a href="https://github.com/ilesyk"><img src="https://img.shields.io/badge/ilesyk-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
+<a href="https://github.com/SergBohdan"><img src="https://img.shields.io/badge/SergBohdan-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
+<a href="https://github.com/OleksiiProkoshin"><img src="https://img.shields.io/badge/OleksiiProkoshin-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
+<a href="https://github.com/YevhenBrovchuk"><img src="https://img.shields.io/badge/YevhenBrovchuk-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
+<a href="https://github.com/Vadym-Ivanenko"><img src="https://img.shields.io/badge/Vadym&ndash;Ivanenko-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
+<a href="https://github.com/THafinchuk"><img src="https://img.shields.io/badge/THafinchuk-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
+<a href="https://github.com/Roman90000"><img src="https://img.shields.io/badge/Roman90000-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>  
+📚 [𝔹𝕠𝕠𝕜𝕤𝕙𝕖𝕝𝕗](https://morifer79.github.io/code-jedi-project-02/)  
+⌚ [𝕋𝕙𝕖 𝕎𝕒𝕥𝕔𝕙 𝕊𝕡𝕠𝕥](https://djuliia.github.io/project-group-6/)
 
 ---
 
-### My first JS apps:
+### 𝕄𝕪 𝕗𝕚𝕣𝕤𝕥 𝕡𝕣𝕠𝕛𝕖𝕔𝕥:
 
-🔎 [Search Engine](https://morifer79.github.io/goit-js-hw-11/)  
-🐱 [Cat Breeds](https://morifer79.github.io/goit-js-hw-10/)  
-🏖️ [Images Gallery](https://morifer79.github.io/goit-js-hw-08/01-gallery.html)
+👨‍💻 [[𝕎𝕖𝕓 𝕊𝕥𝕦𝕕𝕚𝕠](https://morifer79.github.io/goit-markup-hw-07/)  
+🗣️ [𝕍𝕠𝕚𝕔𝕖 𝔸𝕤𝕤𝕚𝕤𝕥𝕒𝕟𝕥](https://morifer79.github.io/maviAI/)
+
+---
+
+### 𝕄𝕪 𝕗𝕚𝕣𝕤𝕥 ℝ𝕖𝕒𝕔𝕥 𝕒𝕡𝕡𝕤:
+
+🎥 [𝕄𝕠𝕧𝕚𝕖 𝔽𝕚𝕟𝕕𝕖𝕣](https://morifer79.github.io/goit-react-hw-05-movies/)  
+📖 [ℙ𝕙𝕠𝕟𝕖𝕓𝕠𝕠𝕜](https://morifer79.github.io/goit-react-hw-04-phonebook/)  
+📊 [𝔽𝕖𝕖𝕕𝕓𝕒𝕔𝕜](https://morifer79.github.io/goit-react-hw-04-feedback/)  
+🕵️ [𝕀𝕞𝕒𝕘𝕖 𝔽𝕚𝕟𝕕𝕖𝕣](https://morifer79.github.io/goit-react-hw-04-images/)  
+🏗️ [ℂ𝕠𝕞𝕡𝕠𝕟𝕖𝕟𝕥𝕤](https://github.com/Morifer79/goit-react-hw-01-components)
+
+---
+
+### 𝕄𝕪 𝕗𝕚𝕣𝕤𝕥 𝕁𝕊 𝕒𝕡𝕡𝕤:
+
+🔎 [𝕊𝕖𝕒𝕣𝕔𝕙 𝔼𝕟𝕘𝕚𝕟𝕖](https://morifer79.github.io/goit-js-hw-11/)  
+🐱 [ℂ𝕒𝕥 𝔹𝕣𝕖𝕖𝕕𝕤](https://morifer79.github.io/goit-js-hw-10/)  
+🏖️ [𝕀𝕞𝕒𝕘𝕖𝕤 𝔾𝕒𝕝𝕝𝕖𝕣𝕪](https://morifer79.github.io/goit-js-hw-08/01-gallery.html)
 
 ---
 
 <details>
-  <summary> 🎵 Music :</summary>
+  <summary> 🎵 𝕐𝕠𝕦𝕋𝕦𝕓𝕖𝕄𝕦𝕤𝕚𝕔 :</summary>
 <table>
     <tr>
       <td><a href="https://www.youtube.com/watch?v=EXXMtKPfuzY&list=FLDXOdlrRZYftqWf2dSHySXw&index=1" target="_blank">
