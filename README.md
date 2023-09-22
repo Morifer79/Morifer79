@@ -13,6 +13,10 @@
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=Morifer79&style=plastic&color=yellow" alt=""/></div>
 
+<div align="center"><a href="https://www.youtube.com/watch?v=4FyTx_yeHXo&list=PLxSnKhJne-5G85yAhh6skZo77baMO9EJ7&index=1">
+    <img src="https://img.shields.io/badge/Baltra&ndash;Fade_Away-red?plastic&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+</a></div>
+
 ---
 
 - 🌱 Now I'm studying at GOIT on the Full Stack Developer course and starting Redux
