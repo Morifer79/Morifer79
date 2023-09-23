@@ -257,25 +257,76 @@
       <td><a href="https://www.youtube.com/watch?v=lEa7ltud4-c&list=FLDXOdlrRZYftqWf2dSHySXw&index=200">
  <img src="https://img.shields.io/badge/Ascendit_ad_Paradisum-black?style=plastic&label=Andrew_Rayel&labelColor=red&logo=youtube" alt="Youtube Badge"/>
 </a></td>
-    </tr>
+    </tr
+      <tr>
+   <td><a href="https://www.youtube.com/watch?v=Qv2sIeD7DS8">
+ <img src="https://img.shields.io/badge/Island-black?style=plastic&label=Kensington&labelColor=red&logo=youtube" alt="Youtube Badge"/>
+</a></td>
+   <td><a href="https://www.youtube.com/watch?v=SF5mf4LV7Jw">
+ <img src="https://img.shields.io/badge/When_is_the_Future-black?style=plastic&label=VNV_Nation&labelColor=red&logo=youtube" alt="Youtube Badge"/>
+</a></td>
+   <td><a href="https://www.youtube.com/watch?v=BALIQzRvCF4">
+ <img src="https://img.shields.io/badge/Sevendust-black?style=plastic&label=Xmas_Day&labelColor=red&logo=youtube" alt="Youtube Badge"/>
+</a></td>
+   <td><a href="https://www.youtube.com/watch?v=pRhDOQNLoKA">
+ <img src="https://img.shields.io/badge/All_Night-black?style=plastic&label=Trevor_Something&labelColor=red&logo=youtube" alt="Youtube Badge"/>
+</a></td>
+</tr>
+  <tr>
+   <td><a href="https://www.youtube.com/watch?v=1mYK5WgafxA">
+ <img src="https://img.shields.io/badge/What_More_Can_I_Do-black?style=plastic&label=Jack_Savoretti&labelColor=red&logo=youtube" alt="Youtube Badge"/>
+</a></td>
+   <td><a href="https://www.youtube.com/watch?v=g0S4WffktqE">
+ <img src="https://img.shields.io/badge/Living_in_a_Lie-black?style=plastic&label=Trevor_Something&labelColor=red&logo=youtube" alt="Youtube Badge"/>
+</a></td>
+   <td><a href="https://www.youtube.com/watch?v=gc4C0glwurY">
+ <img src="https://img.shields.io/badge/Hamdulillah-black?style=plastic&label=Shadia_Mansour&labelColor=red&logo=youtube" alt="Youtube Badge"/>
+</a></td>
+   <td><a href="https://www.youtube.com/watch?v=vMElo25eatg">
+ <img src="https://img.shields.io/badge/As_Long_As_I_Am_Here-black?style=plastic&label=Prime_Circle&labelColor=red&logo=youtube" alt="Youtube Badge"/>
+</a></td>
+</tr>
+  <tr>
+   <td><a href="https://www.youtube.com/watch?v=0JdGPwBXqfs">
+ <img src="https://img.shields.io/badge/Life_Round_Here-black?style=plastic&label=James_Blake&labelColor=red&logo=youtube" alt="Youtube Badge"/>
+</a></td>
+   <td><a href="https://www.youtube.com/watch?v=1drLuCWsnh4">
+ <img src="https://img.shields.io/badge/The_Great_Shipwreck_of_Life-black?style=plastic&label=IAMX&labelColor=red&logo=youtube" alt="Youtube Badge"/>
+</a></td>
+   <td><a href="https://www.youtube.com/watch?v=8UjsU-qOYQI">
+ <img src="https://img.shields.io/badge/Dernière_Danse-black?style=plastic&label=Indila&labelColor=red&logo=youtube" alt="Youtube Badge"/>
+</a></td>
+   <td><a href="https://www.youtube.com/watch?v=g5Kz3xgwiIU">
+ <img src="https://img.shields.io/badge/Artificial_Love-black?style=plastic&label=Giga_Papaskiri&labelColor=red&logo=youtube" alt="Youtube Badge"/>
+</a></td>
+</tr>
+  <tr>
+   <td><a href="https://www.youtube.com/watch?v=Tdjf9lDmp_A">
+ <img src="https://img.shields.io/badge/You_Played_Me-black?style=plastic&label=Gabriel_Balky&labelColor=red&logo=youtube" alt="Youtube Badge"/>
+</a></td>
+   <td><a href="https://www.youtube.com/watch?v=XIeACpq9jGU">
+ <img src="https://img.shields.io/badge/Saviour-black?style=plastic&label=Dimension&labelColor=red&logo=youtube" alt="Youtube Badge"/>
+</a></td>
+   <td><a href="https://www.youtube.com/watch?v=_Ko4nm2rRUM">
+ <img src="https://img.shields.io/badge/Notramouremor-black?style=plastic&label=Crisologo&labelColor=red&logo=youtube" alt="Youtube Badge"/>
+</a></td>
+   <td><a href="https://www.youtube.com/watch?v=AnLcraugD-0">
+ <img src="https://img.shields.io/badge/Concern-black?style=plastic&label=Craspore&labelColor=red&logo=youtube" alt="Youtube Badge"/>
+</a></td>
+</tr>
+  <tr>
+   <td><a href="https://www.youtube.com/watch?v=Ea0ImQ0c1E4">
+ <img src="https://img.shields.io/badge/Fountains-black?style=plastic&label=Blvck_Ceiling&labelColor=red&logo=youtube" alt="Youtube Badge"/>
+</a></td>
+   <td><a href="https://www.youtube.com/watch?v=UgOPSLn9U6Q">
+ <img src="https://img.shields.io/badge/Should_Be_Higher-black?style=plastic&label=Depeche_Mode&labelColor=red&logo=youtube" alt="Youtube Badge"/>
+</a></td>
+   <td><a href="https://www.youtube.com/watch?v=C-vE0n3cs4E&list=FLDXOdlrRZYftqWf2dSHySXw&index=140">
+ <img src="https://img.shields.io/badge/In_the_Club-black?style=plastic&label=LOKH&labelColor=red&logo=youtube" alt="Youtube Badge"/>
+</a></td>
+   <td><a href="https://www.youtube.com/watch?v=BZF1jio9Yos">
+ <img src="https://img.shields.io/badge/Human_Nature-black?style=plastic&label=Sevdaliza&labelColor=red&logo=youtube" alt="Youtube Badge"/>
+</a></td>
+</tr>
 </table>
 </details>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
