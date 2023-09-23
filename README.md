@@ -114,10 +114,10 @@
  <img src="https://img.shields.io/badge/Arise-black?style=plastic&label=Kaina&labelColor=red&logo=youtube" alt="Youtube Badge"/>
 </a></td>
       <td><a href="https://www.youtube.com/watch?v=mN8LLlI2PxU&list=FLDXOdlrRZYftqWf2dSHySXw&index=173">
- <img src="https://img.shields.io/badge/Surrender-black?style=plastic&label=Gaia&labelColor=red&logo=youtube" alt="Youtube Badge"/>
+ <img src="https://img.shields.io/badge/Tuvan-black?style=plastic&label=Gaia&labelColor=red&logo=youtube" alt="Youtube Badge"/>
 </a></td>
       <td><a href="https://www.youtube.com/watch?v=n8xL800Ze_I&list=FLDXOdlrRZYftqWf2dSHySXw&index=178">
- <img src="https://img.shields.io/badge/Tuvan-black?style=plastic&label=I_am_waiting_for_you_last_summer&labelColor=red&logo=youtube" alt="Youtube Badge"/>
+ <img src="https://img.shields.io/badge/Surrender-black?style=plastic&label=Iam_waiting_for_you&labelColor=red&logo=youtube" alt="Youtube Badge"/>
 </a></td>
     </tr>
     <tr>
