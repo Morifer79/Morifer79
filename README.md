@@ -45,6 +45,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Morifer79&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Morifer79&theme=transparent&background=000000)](https://git.io/streak-stats)
+
 ---
 
 ### 𝔾𝕣𝕠𝕦𝕡 𝕡𝕣𝕠𝕛𝕖𝕔𝕥𝕤:
