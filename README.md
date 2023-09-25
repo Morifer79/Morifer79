@@ -1,23 +1,24 @@
 <div id="header" align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bad+Script&size=25&pause=1000&multiline=true&width=436&height=100&lines=Hello!+My+name+is+Gennadii+Laktionov;I%E2%80%99m+beginer+Frontend+Developer+from+Ukraine;And+I+welcome+you+to+my+page+%E2%9C%8C" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bad+Script&size=25&pause=1000&multiline=true&width=436&height=100&lines=Hello!+My+name+is+Gennadii+Laktionov;I%E2%80%99m+beginner+Frontend+Developer+from+Ukraine;And+I+welcome+you+to+my+page+%E2%9C%8C" alt="Typing SVG" /></a>
 </div>
 
 ---
 
 <div id="badges" align="center">
-  <a href="https://t.me/morifer13" target="_blank"><img src="https://img.shields.io/badge/Telegram-blue?style=plastic&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
-  <a href="https://vb.me/letsChatOnViber" target="_blank"><img src="https://img.shields.io/badge/Viber-blueviolet?style=plastic&logo=viber&logoColor=white" alt="Viber Badge"/></a>
-  <a href="https://wa.me/qr/GILNVEA45WWKE1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-limegreen?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/></a>
-  <a href="https://www.instagram.com/aratama79/?utm_source=qr&igshid=YzU1NGVlODEzOA%3D%3D" target="_blank"><img src="https://img.shields.io/badge/Instagram-mediumvioletred?style=plastic&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
+  <a href="https://www.linkedin.com/in/hennadii-laktionov-274bb0292/"><img src="https://img.shields.io/badge/linkedin-blue?style=plastic&logo=linkedin&logoColor=white" alt="Linkedin Badge"/></a>
+  <a href="https://t.me/morifer13"><img src="https://img.shields.io/badge/Telegram-blue?style=plastic&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
+  <a href="https://vb.me/letsChatOnViber"><img src="https://img.shields.io/badge/Viber-blueviolet?style=plastic&logo=viber&logoColor=white" alt="Viber Badge"/></a>
+  <a href="https://wa.me/qr/GILNVEA45WWKE1"><img src="https://img.shields.io/badge/WhatsApp-limegreen?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/></a>
+  <a href="https://www.instagram.com/aratama79/?utm_source=qr&igshid=YzU1NGVlODEzOA%3D%3D"><img src="https://img.shields.io/badge/Instagram-mediumvioletred?style=plastic&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
 </div>
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=Morifer79&style=plastic&color=yellow" alt=""/></div>
 
 ---
 
-◦ 🌱 ℕ𝕠𝕨 𝕀'𝕞 𝕤𝕥𝕦𝕕𝕪𝕚𝕟𝕘 𝕒𝕥 𝔾𝕆𝕀𝕋 𝕠𝕟 𝕥𝕙𝕖 𝔽𝕦𝕝𝕝 𝕊𝕥𝕒𝕔𝕜 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 𝕔𝕠𝕦𝕣𝕤𝕖 𝕒𝕟𝕕 𝕤𝕥𝕒𝕣𝕥𝕚𝕟𝕘 ℝ𝕖𝕕𝕦𝕩  
-◦ 📧 ℍ𝕠𝕨 𝕥𝕠 𝕣𝕖𝕒𝕔𝕙 𝕞𝕖: 𝕞𝕠𝕣𝕚𝕗𝕖𝕣𝟙𝟛@𝕘𝕞𝕒𝕚𝕝.𝕔𝕠𝕞  
-◦ ⚡ 𝔽𝕦𝕟 𝕗𝕒𝕔𝕥: 𝕀'𝕞 𝕔𝕝𝕦𝕞𝕤𝕚𝕝𝕪 𝕜𝕚𝕝𝕝𝕚𝕟𝕘 𝕥𝕚𝕞𝕖, 𝕨𝕙𝕚𝕔𝕙 𝕚𝕤 𝕜𝕚𝕝𝕝𝕚𝕟𝕘 𝕞𝕖 𝕞𝕒𝕤𝕥𝕖𝕣𝕗𝕦𝕝𝕝𝕪
+◦ 🌱 Now I'm studying at GoIT on the Full Stack Developer course and starting Redux.  
+◦ 📧 How to reach me: morifer13@gmail.com  
+◦ ⚡ Fun fact: I'm clumsily killing time, which is killing me masterfully.  
   
 ---
 
@@ -77,7 +78,7 @@
 📖 [ℙ𝕙𝕠𝕟𝕖𝕓𝕠𝕠𝕜](https://morifer79.github.io/goit-react-hw-04-phonebook/)  
 📊 [𝔽𝕖𝕖𝕕𝕓𝕒𝕔𝕜](https://morifer79.github.io/goit-react-hw-04-feedback/)  
 🕵️ [𝕀𝕞𝕒𝕘𝕖 𝔽𝕚𝕟𝕕𝕖𝕣](https://morifer79.github.io/goit-react-hw-04-images/)  
-🏗️ [ℂ𝕠𝕞𝕡𝕠𝕟𝕖𝕟𝕥𝕤](https://github.com/Morifer79/goit-react-hw-01-components)
+🏗️ [ℂ𝕠𝕞𝕡𝕠𝕟𝕖𝕟𝕥𝕤](https://morifer79.github.io/goit-react-hw-01-components/)
 
 ---
 
