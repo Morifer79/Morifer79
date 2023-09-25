@@ -6,9 +6,9 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/hennadii-laktionov-274bb0292/"><img src="https://img.shields.io/badge/linkedin-blue?style=plastic&logo=linkedin&logoColor=white" alt="Linkedin Badge"/></a>
-  <a href="https://t.me/morifer13"><img src="https://img.shields.io/badge/Telegram-blue?style=plastic&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
-  <a href="https://vb.me/letsChatOnViber"><img src="https://img.shields.io/badge/Viber-blueviolet?style=plastic&logo=viber&logoColor=white" alt="Viber Badge"/></a>
   <a href="https://wa.me/qr/GILNVEA45WWKE1"><img src="https://img.shields.io/badge/WhatsApp-limegreen?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/></a>
+  <a href="https://vb.me/letsChatOnViber"><img src="https://img.shields.io/badge/Viber-blueviolet?style=plastic&logo=viber&logoColor=white" alt="Viber Badge"/></a>
+  <a href="https://t.me/morifer13"><img src="https://img.shields.io/badge/Telegram-deepskyblue?style=plastic&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
   <a href="https://www.instagram.com/aratama79/?utm_source=qr&igshid=YzU1NGVlODEzOA%3D%3D"><img src="https://img.shields.io/badge/Instagram-mediumvioletred?style=plastic&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
 </div>
 
