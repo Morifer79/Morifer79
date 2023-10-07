@@ -5,7 +5,7 @@
 ---
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/hennadii-laktionov-274bb0292/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="Linkedin Badge"/></a>
+  <a href="www.linkedin.com/in/𝑯𝒆𝒏𝒏𝒂𝒅𝒊𝒊-𝑳𝒂𝒌𝒕𝒊𝒐𝒏𝒐𝒗-274bb0292"><img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="Linkedin Badge"/></a>
   <a href="https://wa.me/qr/GILNVEA45WWKE1"><img src="https://img.shields.io/badge/WhatsApp-limegreen?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/></a>
   <a href="https://vb.me/letsChatOnViber"><img src="https://img.shields.io/badge/Viber-blueviolet?style=plastic&logo=viber&logoColor=white" alt="Viber Badge"/></a>
   <a href="https://t.me/aratama79"><img src="https://img.shields.io/badge/Telegram-deepskyblue?style=plastic&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
