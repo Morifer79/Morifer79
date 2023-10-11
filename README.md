@@ -73,7 +73,7 @@
 
 ### 𝕄𝕪 𝕗𝕚𝕣𝕤𝕥 ℝ𝕖𝕒𝕔𝕥 𝕒𝕡𝕡𝕤:
 
-📓: [ℙ𝕙𝕠𝕟𝕖𝕓𝕠𝕠𝕜/Redux](https://morifer79.github.io/goit-react-hw-08-phonebook/) 
+📓: [ℙ𝕙𝕠𝕟𝕖𝕓𝕠𝕠𝕜/Redux](https://morifer79.github.io/goit-react-hw-08-phonebook/)  
 🎥 [𝕄𝕠𝕧𝕚𝕖 𝔽𝕚𝕟𝕕𝕖𝕣](https://morifer79.github.io/goit-react-hw-05-movies/)  
 📖 [ℙ𝕙𝕠𝕟𝕖𝕓𝕠𝕠𝕜](https://morifer79.github.io/goit-react-hw-04-phonebook/)  
 📊 [𝔽𝕖𝕖𝕕𝕓𝕒𝕔𝕜](https://morifer79.github.io/goit-react-hw-04-feedback/)  
