@@ -16,9 +16,9 @@
 
 ---
 
-◦ 🌱 Now I'm studying at GoIT on the Full Stack Developer course and starting Redux.  
-◦ 📧 How to reach me: morifer13@gmail.com  
-◦ ⚡ Fun fact: I'm clumsily killing time, which is killing me masterfully.  
+◦ 👨‍💻 𝑵𝒐𝒘 𝑰'𝒎 𝒔𝒕𝒖𝒅𝒚𝒊𝒏𝒈 𝒂𝒕 𝑮𝒐𝑰𝑻 𝒐𝒏 𝒕𝒉𝒆 𝑭𝒖𝒍𝒍 𝑺𝒕𝒂𝒄𝒌 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒄𝒐𝒖𝒓𝒔𝒆 𝒂𝒏𝒅 𝒔𝒕𝒂𝒓𝒕𝒊𝒏𝒈 𝑵𝒐𝒅𝒆.𝒋𝒔  
+◦ 📧 𝑯𝒐𝒘 𝒕𝒐 email 𝒎𝒆: morifer13@gmail.com  
+◦ ✨ 𝑨𝒅𝒗𝒊𝒄𝒆: 𝑩𝒆 𝒕𝒓𝒖𝒆 𝒕𝒐 𝒕𝒉𝒆 𝒄𝒖𝒓𝒓𝒆𝒏𝒕 𝒎𝒐𝒎𝒆𝒏𝒕...
   
 ---
 
@@ -29,6 +29,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/374167/vite.svg" title="Vite" **alt="Vite" width="40" height="40"/>
