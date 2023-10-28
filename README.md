@@ -1,5 +1,9 @@
+<img src="./myBanner.jpg" alt="my banner">  
+
+---
+
 <div id="header" align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bad+Script&size=25&pause=1000&multiline=true&width=436&height=100&lines=Hello!+My+name+is+Hennadii+Laktionov;I%E2%80%99m+beginner+Frontend+Developer+from+Ukraine;And+I+welcome+you+to+my+page+%E2%9C%8C" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bad+Script&size=25&duration=3000&pause=500&center=true&multiline=true&width=436&height=100&lines=Hello!+My+name+is+Hennadii+Laktionov;I%E2%80%99m+beginner+Frontend+Developer+from+Ukraine;And+I+welcome+you+to+my+page+%E2%9C%8C" alt="Typing SVG" /></a>
 </div>
 
 ---
