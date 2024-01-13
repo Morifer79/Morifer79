@@ -9,7 +9,7 @@
 ---
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/%F0%9D%91%AF%F0%9D%92%86%F0%9D%92%8F%F0%9D%92%8F%F0%9D%92%82%F0%9D%92%85%F0%9D%92%8A%F0%9D%92%8A-%F0%9D%91%B3%F0%9D%92%82%F0%9D%92%8C%F0%9D%92%95%F0%9D%92%8A%F0%9D%92%90%F0%9D%92%8F%F0%9D%92%90%F0%9D%92%97-274bb0292/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="Linkedin Badge"/></a>
+  <a href="https://www.linkedin.com/in/hennadii-laktionov-frontend-developer/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="Linkedin Badge"/></a>
   <a href="https://wa.me/qr/GILNVEA45WWKE1"><img src="https://img.shields.io/badge/WhatsApp-limegreen?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/></a>
   <a href="https://vb.me/letsChatOnViber"><img src="https://img.shields.io/badge/Viber-blueviolet?style=plastic&logo=viber&logoColor=white" alt="Viber Badge"/></a>
   <a href="https://t.me/aratama79"><img src="https://img.shields.io/badge/Telegram-deepskyblue?style=plastic&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
@@ -20,7 +20,7 @@
 
 ---
 
-◦ 👨‍💻 𝑰 𝒓𝒆𝒄𝒆𝒏𝒕𝒍𝒚 𝒄𝒐𝒎𝒑𝒍𝒆𝒕𝒆𝒅 𝒕𝒉𝒆 𝑭𝒖𝒍𝒍 𝑺𝒕𝒂𝒄𝒌 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒄𝒐𝒖𝒓𝒔𝒆 𝒂𝒕 𝑮𝒐𝑰𝑻  
+◦ 👨‍💻 𝑰 𝒓𝒆𝒄𝒆𝒏𝒕𝒍𝒚 𝒄𝒐𝒎𝒑𝒍𝒆𝒕𝒆𝒅 𝒕𝒉𝒆 𝑭𝒖𝒍𝒍𝒔𝒕𝒂𝒄𝒌 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒄𝒐𝒖𝒓𝒔𝒆 𝒂𝒕 𝑮𝒐𝑰𝑻  
 ◦ 📧 𝑯𝒐𝒘 𝒕𝒐 𝒆𝒎𝒂𝒊𝒍 𝒎𝒆: [𝒄𝒚𝒃𝒆𝒓-𝒎𝒐𝒓𝒊𝒇𝒆𝒓@𝒑𝒓𝒐𝒕𝒐𝒏.𝒎𝒆](mailto:cyber-morifer@proton.me)   
 ◦ ✨ 𝑨𝒅𝒗𝒊𝒄𝒆: 𝑩𝒆 𝒕𝒓𝒖𝒆 𝒕𝒐 𝒕𝒉𝒆 𝒄𝒖𝒓𝒓𝒆𝒏𝒕 𝒎𝒐𝒎𝒆𝒏𝒕...
   
