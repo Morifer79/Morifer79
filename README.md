@@ -1,7 +1,5 @@
 <img src="./myBanner.jpg" alt="my banner">  
 
----
-
 <div id="header" align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bad+Script&size=25&duration=3000&pause=500&center=true&multiline=true&width=436&height=100&lines=Hello!+My+name+is+Hennadii+Laktionov;I%E2%80%99m+beginner+Fullstack+Developer+from+Ukraine;And+I+welcome+you+to+my+page+%E2%9C%8C" alt="Typing SVG" /></a>
 </div>
@@ -28,10 +26,8 @@
 
 ### :hammer_and_wrench: 𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤 𝕒𝕟𝕕 𝕋𝕠𝕠𝕝𝕤 :
 
-<div align="center">
-  <a href="[https://github.com/Djuliia](https://developer.mozilla.org/en-US/docs/Web/HTML)"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/></a>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/></a>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -39,15 +35,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node" alt="Node" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/374167/vite.svg" title="Vite" **alt="Vite" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/331724/github-code-source.svg" title="Github" **alt="Github" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/354601/zeplin.svg" title="Zeplin" **alt="Zeplin" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-cs4.svg" title="Photoshop" **alt="Photoshop" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/452109/sublime-text.svg" title="SublimeText3" **alt="SublimeText3" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
-</div>
+  <img src="https://www.svgrepo.com/show/374167/vite.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/331724/github-code-source.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/354601/zeplin.svg" title="Zeplin" alt="Zeplin" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongoDB" alt="mongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
 
 ---
 
@@ -57,8 +52,7 @@
 
 ---
 
-### 𝔾𝕣𝕠𝕦𝕡 𝕡𝕣𝕠𝕛𝕖𝕔𝕥𝕤:
-
+### 𝔾𝕣𝕠𝕦𝕡 𝕡𝕣𝕠𝕛𝕖𝕔𝕥𝕤:  
 <a href="https://github.com/Djuliia"><img src="https://img.shields.io/badge/Djuliia-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
 <a href="https://github.com/ilesyk"><img src="https://img.shields.io/badge/ilesyk-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
 <a href="https://github.com/SergBohdan"><img src="https://img.shields.io/badge/SergBohdan-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
@@ -68,32 +62,23 @@
 <a href="https://github.com/THafinchuk"><img src="https://img.shields.io/badge/THafinchuk-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
 <a href="https://github.com/Roman90000"><img src="https://img.shields.io/badge/Roman90000-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>  
 📚 [𝔹𝕠𝕠𝕜𝕤𝕙𝕖𝕝𝕗](https://morifer79.github.io/code-jedi-project-02/)  
-⌚ [𝕋𝕙𝕖 𝕎𝕒𝕥𝕔𝕙 𝕊𝕡𝕠𝕥](https://djuliia.github.io/project-group-6/)
+⌚ [𝕎𝕒𝕥𝕔𝕙 𝕊𝕡𝕠𝕥](https://djuliia.github.io/project-group-6/)  
+💧 [𝕎𝕒𝕥𝕖𝕣 𝕋𝕣𝕒𝕔𝕜𝕖𝕣](https://oleksiihvozdukhin.github.io/code-jedi-project-03-frontend/)  
 
----
+### ℝ𝕖𝕒𝕔𝕥 𝕒𝕡𝕡𝕤:  
+🚙 [ℂ𝕒𝕣 ℝ𝕖𝕟𝕥𝕒𝕝](https://morifer79.github.io/project-car-rental/)  
+📓 [ℙ𝕙𝕠𝕟𝕖𝕓𝕠𝕠𝕜](https://morifer79.github.io/react-phonebook_final/)  
+🎥 [𝕄𝕠𝕧𝕚𝕖 𝔽𝕚𝕟𝕕𝕖𝕣](https://morifer79.github.io/react-movie-search/)  
+📊 [𝔽𝕖𝕖𝕕𝕓𝕒𝕔𝕜](https://morifer79.github.io/react-feedback_hooks/)  
+🕵️ [𝕀𝕞𝕒𝕘𝕖 𝔽𝕚𝕟𝕕𝕖𝕣](https://morifer79.github.io/react-image-search_hooks/)  
+🏗️ [ℂ𝕠𝕞𝕡𝕠𝕟𝕖𝕟𝕥𝕤](https://morifer79.github.io/react-components/)
 
-### 𝕄𝕪 𝕗𝕚𝕣𝕤𝕥 𝕡𝕣𝕠𝕛𝕖𝕔𝕥:
+### 𝕁𝕊 𝕒𝕡𝕡𝕤:  
+🔎 [𝕊𝕖𝕒𝕣𝕔𝕙 𝔼𝕟𝕘𝕚𝕟𝕖](https://morifer79.github.io/image-search)  
+🐱 [ℂ𝕒𝕥 𝔹𝕣𝕖𝕖𝕕𝕤](https://morifer79.github.io/cat-breed-search/)  
 
-👨‍💻 [𝕎𝕖𝕓 𝕊𝕥𝕦𝕕𝕚𝕠](https://morifer79.github.io/goit-markup-hw-07/)  
-🗣️ [𝕍𝕠𝕚𝕔𝕖 𝔸𝕤𝕤𝕚𝕤𝕥𝕒𝕟𝕥](https://morifer79.github.io/maviAI/)
+### 𝔽𝕚𝕣𝕤𝕥 𝕡𝕣𝕠𝕛𝕖𝕔𝕥:  
+👨‍💻 [𝕎𝕖𝕓 𝕊𝕥𝕦𝕕𝕚𝕠](https://morifer79.github.io/web-studio/)   
 
----
-
-### 𝕄𝕪 𝕗𝕚𝕣𝕤𝕥 ℝ𝕖𝕒𝕔𝕥 𝕒𝕡𝕡𝕤:
-
-📓 [ℙ𝕙𝕠𝕟𝕖𝕓𝕠𝕠𝕜/Redux](https://morifer79.github.io/goit-react-hw-08-phonebook/)  
-🎥 [𝕄𝕠𝕧𝕚𝕖 𝔽𝕚𝕟𝕕𝕖𝕣](https://morifer79.github.io/goit-react-hw-05-movies/)  
-📖 [ℙ𝕙𝕠𝕟𝕖𝕓𝕠𝕠𝕜](https://morifer79.github.io/goit-react-hw-04-phonebook/)  
-📊 [𝔽𝕖𝕖𝕕𝕓𝕒𝕔𝕜](https://morifer79.github.io/goit-react-hw-04-feedback/)  
-🕵️ [𝕀𝕞𝕒𝕘𝕖 𝔽𝕚𝕟𝕕𝕖𝕣](https://morifer79.github.io/goit-react-hw-04-images/)  
-🏗️ [ℂ𝕠𝕞𝕡𝕠𝕟𝕖𝕟𝕥𝕤](https://morifer79.github.io/goit-react-hw-01-components/)
-
----
-
-### 𝕄𝕪 𝕗𝕚𝕣𝕤𝕥 𝕁𝕊 𝕒𝕡𝕡𝕤:
-
-🔎 [𝕊𝕖𝕒𝕣𝕔𝕙 𝔼𝕟𝕘𝕚𝕟𝕖](https://morifer79.github.io/goit-js-hw-11/)  
-🐱 [ℂ𝕒𝕥 𝔹𝕣𝕖𝕖𝕕𝕤](https://morifer79.github.io/goit-js-hw-10/)  
-🏖️ [𝕀𝕞𝕒𝕘𝕖𝕤 𝔾𝕒𝕝𝕝𝕖𝕣𝕪](https://morifer79.github.io/goit-js-hw-08/01-gallery.html)
-
-
+### 𝕄𝕪 𝕒𝕡𝕡:  
+🗣️ [𝕍𝕠𝕚𝕔𝕖 𝔸𝕤𝕤𝕚𝕤𝕥𝕒𝕟𝕥](https://morifer79.github.io/maviAI/) 
