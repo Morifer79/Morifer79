@@ -28,21 +28,22 @@
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/></a>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node" alt="Node" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node" alt="Node" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/374167/vite.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/331724/github-code-source.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/354601/zeplin.svg" title="Zeplin" alt="Zeplin" width="40" height="40"/>&nbsp;
+  <img src="https://cms.pixso.net/images/home/format-pix.png" title="Pixso" alt="pixso" width="40" height="40"/>&nbsp;
+  <img src="https://quickmocker.com/assets/img/share_logo.png" title="QuickMocker" alt="QM" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongoDB" alt="mongoDB" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
 
 ---
 
@@ -74,11 +75,14 @@
 🏗️ [ℂ𝕠𝕞𝕡𝕠𝕟𝕖𝕟𝕥𝕤](https://morifer79.github.io/react-components/)
 
 ### 𝕁𝕊 𝕒𝕡𝕡𝕤:  
+🏝️ [ℙ𝕠𝕣𝕥𝕗𝕠𝕝𝕚𝕠](https://morifer79.github.io/my-portfolio/)  
 🔎 [𝕊𝕖𝕒𝕣𝕔𝕙 𝔼𝕟𝕘𝕚𝕟𝕖](https://morifer79.github.io/image-search)  
 🐱 [ℂ𝕒𝕥 𝔹𝕣𝕖𝕖𝕕𝕤](https://morifer79.github.io/cat-breed-search/)  
 
-### 𝔽𝕚𝕣𝕤𝕥 𝕡𝕣𝕠𝕛𝕖𝕔𝕥:  
-👨‍💻 [𝕎𝕖𝕓 𝕊𝕥𝕦𝕕𝕚𝕠](https://morifer79.github.io/web-studio/)   
+### ℍ𝕋𝕄𝕃/ℂ𝕊𝕊 𝕒𝕡𝕡𝕤:  
+🚥 [ℂℝ𝕄 (𝕤𝕔𝕤𝕤)](https://morifer79.github.io/scss-project_crm/)   
+:octocat: [ℂ𝕒𝕥 ℍ𝕠𝕦𝕤𝕖 (𝕘𝕣𝕚𝕕)](https://morifer79.github.io/grid-project_cat-house/)   
+🌐 [𝕎𝕖𝕓 𝕊𝕥𝕦𝕕𝕚𝕠](https://morifer79.github.io/web-studio/)   
 
 ### 𝕄𝕪 𝕒𝕡𝕡:  
 🗣️ [𝕍𝕠𝕚𝕔𝕖 𝔸𝕤𝕤𝕚𝕤𝕥𝕒𝕟𝕥](https://morifer79.github.io/maviAI/) 
