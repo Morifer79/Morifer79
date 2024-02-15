@@ -40,7 +40,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/331724/github-code-source.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
   <img src="https://cms.pixso.net/images/home/format-pix.png" title="Pixso" alt="pixso" width="40" height="40"/>&nbsp;
-  <img src="https://quickmocker.com/assets/img/share_logo.png" title="QuickMocker" alt="QM" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongoDB" alt="mongoDB" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
