@@ -54,7 +54,7 @@
 ---
 
 ### 𝔾𝕣𝕠𝕦𝕡 𝕡𝕣𝕠𝕛𝕖𝕔𝕥𝕤:  
-💧 [𝕎𝕒𝕥𝕖𝕣 𝕋𝕣𝕒𝕔𝕜𝕖𝕣](https://oleksiihvozdukhin.github.io/code-jedi-project-03-frontend/)  
+💧 [ᗯᗩTEᖇ TᖇᗩᑕKEᖇ](https://oleksiihvozdukhin.github.io/code-jedi-project-03-frontend/)  
 <a href="https://github.com/Djuliia"><img src="https://img.shields.io/badge/Djuliia-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
 <a href="https://github.com/ilesyk"><img src="https://img.shields.io/badge/ilesyk-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
 <a href="https://github.com/YevhenBrovchuk"><img src="https://img.shields.io/badge/YevhenBrovchuk-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
@@ -64,7 +64,7 @@
 <a href="https://github.com/j-Hop"><img src="https://img.shields.io/badge/j&ndash;Hop-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
 <a href="https://github.com/oldstuden"><img src="https://img.shields.io/badge/oldstuden-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
 <a href="https://github.com/Ihoronya"><img src="https://img.shields.io/badge/Ihoronya-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>  
- 📚 [𝔹𝕠𝕠𝕜𝕤𝕙𝕖𝕝𝕗](https://morifer79.github.io/code-jedi-project-02/)  
+ 📚 [ᗷOOKSᕼEᒪᖴ](https://morifer79.github.io/code-jedi-project-02/)  
 <a href="https://github.com/Djuliia"><img src="https://img.shields.io/badge/Djuliia-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
 <a href="https://github.com/ilesyk"><img src="https://img.shields.io/badge/ilesyk-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
 <a href="https://github.com/SergBohdan"><img src="https://img.shields.io/badge/SergBohdan-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
@@ -73,7 +73,7 @@
 <a href="https://github.com/Vadym-Ivanenko"><img src="https://img.shields.io/badge/Vadym&ndash;Ivanenko-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
 <a href="https://github.com/THafinchuk"><img src="https://img.shields.io/badge/THafinchuk-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
 <a href="https://github.com/Roman90000"><img src="https://img.shields.io/badge/Roman90000-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>  
-⌚ [𝕎𝕒𝕥𝕔𝕙 𝕊𝕡𝕠𝕥](https://djuliia.github.io/project-group-6/)  
+⌚ [ᗯᗩTᑕᕼ SᑭOT](https://djuliia.github.io/project-group-6/)  
 <a href="https://github.com/Djuliia"><img src="https://img.shields.io/badge/Djuliia-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
 <a href="https://github.com/ilesyk"><img src="https://img.shields.io/badge/ilesyk-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
 <a href="https://github.com/SergBohdan"><img src="https://img.shields.io/badge/SergBohdan-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
@@ -83,23 +83,23 @@
 <a href="https://github.com/YanaK93"><img src="https://img.shields.io/badge/YanaK93-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>  
 
 ### ℝ𝕖𝕒𝕔𝕥 𝕒𝕡𝕡𝕤:  
-🚥 [ℂℝ𝕄(𝕟𝕖𝕩𝕥)](https://next-rb5kncgv4-morifer79s-projects.vercel.app/companies)  
-🚙 [ℂ𝕒𝕣 ℝ𝕖𝕟𝕥𝕒𝕝](https://morifer79.github.io/project-car-rental/)  
-📓 [ℙ𝕙𝕠𝕟𝕖𝕓𝕠𝕠𝕜](https://morifer79.github.io/react-phonebook_final/)  
-🎥 [𝕄𝕠𝕧𝕚𝕖 𝔽𝕚𝕟𝕕𝕖𝕣](https://morifer79.github.io/react-movie-search/)  
-📊 [𝔽𝕖𝕖𝕕𝕓𝕒𝕔𝕜](https://morifer79.github.io/react-feedback_hooks/)  
-🕵️ [𝕀𝕞𝕒𝕘𝕖 𝔽𝕚𝕟𝕕𝕖𝕣](https://morifer79.github.io/react-image-search_hooks/)  
-🏗️ [ℂ𝕠𝕞𝕡𝕠𝕟𝕖𝕟𝕥𝕤](https://morifer79.github.io/react-components/)
+🚥 [ᑕᖇᗰ ᑎE᙭T](https://next-rb5kncgv4-morifer79s-projects.vercel.app/companies)  
+🚙 [ᑕᗩᖇ ᖇEᑎTᗩᒪ](https://morifer79.github.io/project-car-rental/)  
+📓 [ᑭᕼOᑎEᗷOOK](https://morifer79.github.io/react-phonebook_final/)  
+🎥 [ᖴIᒪᗰOTEᑕᗩ](https://morifer79.github.io/react-movie-search/)  
+📊 [ᖴEEᗪᗷᗩᑕK](https://morifer79.github.io/react-feedback_hooks/)  
+🕵️ [IᗰᗩGE ᖴIᑎᗪEᖇ](https://morifer79.github.io/react-image-search_hooks/)  
+🏗️ [ᑕOᗰᑭOᑎEᑎTS](https://morifer79.github.io/react-components/)
 
 ### 𝕁𝕊 𝕒𝕡𝕡𝕤:  
-🏝️ [ℙ𝕠𝕣𝕥𝕗𝕠𝕝𝕚𝕠](https://morifer79.github.io/my-portfolio/)  
-🔎 [𝕊𝕖𝕒𝕣𝕔𝕙 𝔼𝕟𝕘𝕚𝕟𝕖](https://morifer79.github.io/image-search)  
-🐱 [ℂ𝕒𝕥 𝔹𝕣𝕖𝕖𝕕𝕤](https://morifer79.github.io/cat-breed-search/)  
+🏝️ [ᑭOᖇTᖴOᒪIO](https://morifer79.github.io/my-portfolio/)  
+🔎 [SEᗩᖇᑕᕼ EᑎGIᑎE](https://morifer79.github.io/image-search)  
+🐱 [ᑕᗩT ᗷᖇEEᗪS](https://morifer79.github.io/cat-breed-search/)  
 
 ### ℍ𝕋𝕄𝕃/ℂ𝕊𝕊 𝕒𝕡𝕡𝕤:  
-🚥 [ℂℝ𝕄 (𝕤𝕔𝕤𝕤)](https://morifer79.github.io/scss-project_crm/)   
-:octocat: [ℂ𝕒𝕥 ℍ𝕠𝕦𝕤𝕖 (𝕘𝕣𝕚𝕕)](https://morifer79.github.io/grid-project_cat-house/)   
-🌐 [𝕎𝕖𝕓 𝕊𝕥𝕦𝕕𝕚𝕠](https://morifer79.github.io/web-studio/)   
+🚥 [ᑕᖇᗰ SᗩSS](https://morifer79.github.io/scss-project_crm/)   
+:octocat: [ᑕᗩT ᕼOᑌSE](https://morifer79.github.io/grid-project_cat-house/)   
+🌐 [ᗯEᗷ STᑌᗪIO](https://morifer79.github.io/web-studio/)   
 
 ### 𝕄𝕪 𝕒𝕡𝕡:  
-🗣️ [𝕍𝕠𝕚𝕔𝕖 𝔸𝕤𝕤𝕚𝕤𝕥𝕒𝕟𝕥](https://morifer79.github.io/maviAI/) 
+🗣️ [ᐯOIᑕE ᗩSSISTᗩᑎT](https://morifer79.github.io/maviAI/) 
