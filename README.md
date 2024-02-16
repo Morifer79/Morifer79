@@ -54,6 +54,17 @@
 ---
 
 ### 𝔾𝕣𝕠𝕦𝕡 𝕡𝕣𝕠𝕛𝕖𝕔𝕥𝕤:  
+💧 [𝕎𝕒𝕥𝕖𝕣 𝕋𝕣𝕒𝕔𝕜𝕖𝕣](https://oleksiihvozdukhin.github.io/code-jedi-project-03-frontend/)  
+<a href="https://github.com/Djuliia"><img src="https://img.shields.io/badge/Djuliia-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
+<a href="https://github.com/ilesyk"><img src="https://img.shields.io/badge/ilesyk-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
+<a href="https://github.com/YevhenBrovchuk"><img src="https://img.shields.io/badge/YevhenBrovchuk-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
+<a href="https://github.com/OleksiiHvozdukhin"><img src="https://img.shields.io/badge/OleksiiHvozdukhin-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
+<a href="https://github.com/NataDent"><img src="https://img.shields.io/badge/NataDent-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
+<a href="https://github.com/JuliaSmolianska"><img src="https://img.shields.io/badge/JuliaSmolianska-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
+<a href="https://github.com/j-Hop"><img src="https://img.shields.io/badge/j&ndash;Hop-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
+<a href="https://github.com/oldstuden"><img src="https://img.shields.io/badge/oldstuden-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
+<a href="https://github.com/Ihoronya"><img src="https://img.shields.io/badge/Ihoronya-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>  
+ 📚 [𝔹𝕠𝕠𝕜𝕤𝕙𝕖𝕝𝕗](https://morifer79.github.io/code-jedi-project-02/)  
 <a href="https://github.com/Djuliia"><img src="https://img.shields.io/badge/Djuliia-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
 <a href="https://github.com/ilesyk"><img src="https://img.shields.io/badge/ilesyk-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
 <a href="https://github.com/SergBohdan"><img src="https://img.shields.io/badge/SergBohdan-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
@@ -62,9 +73,14 @@
 <a href="https://github.com/Vadym-Ivanenko"><img src="https://img.shields.io/badge/Vadym&ndash;Ivanenko-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
 <a href="https://github.com/THafinchuk"><img src="https://img.shields.io/badge/THafinchuk-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
 <a href="https://github.com/Roman90000"><img src="https://img.shields.io/badge/Roman90000-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>  
-📚 [𝔹𝕠𝕠𝕜𝕤𝕙𝕖𝕝𝕗](https://morifer79.github.io/code-jedi-project-02/)  
 ⌚ [𝕎𝕒𝕥𝕔𝕙 𝕊𝕡𝕠𝕥](https://djuliia.github.io/project-group-6/)  
-💧 [𝕎𝕒𝕥𝕖𝕣 𝕋𝕣𝕒𝕔𝕜𝕖𝕣](https://oleksiihvozdukhin.github.io/code-jedi-project-03-frontend/)  
+<a href="https://github.com/Djuliia"><img src="https://img.shields.io/badge/Djuliia-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
+<a href="https://github.com/ilesyk"><img src="https://img.shields.io/badge/ilesyk-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
+<a href="https://github.com/SergBohdan"><img src="https://img.shields.io/badge/SergBohdan-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
+<a href="https://github.com/OleksiiProkoshin"><img src="https://img.shields.io/badge/OleksiiProkoshin-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
+<a href="https://github.com/IlaySkripch"><img src="https://img.shields.io/badge/IlaySkripch-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
+<a href="https://github.com/Volya16"><img src="https://img.shields.io/badge/Volya16-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
+<a href="https://github.com/YanaK93"><img src="https://img.shields.io/badge/YanaK93-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>  
 
 ### ℝ𝕖𝕒𝕔𝕥 𝕒𝕡𝕡𝕤:  
 🚥 [ℂℝ𝕄(𝕟𝕖𝕩𝕥)](https://next-rb5kncgv4-morifer79s-projects.vercel.app/companies)  
