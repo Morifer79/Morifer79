@@ -83,6 +83,8 @@
 <a href="https://github.com/YanaK93"><img src="https://img.shields.io/badge/YanaK93-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>  
 
 ### ℝ𝕖𝕒𝕔𝕥 𝕒𝕡𝕡𝕤:  
+📚 [ᖇEᗩᗪ ᒍOᑌᖇᑎEY](https://morifer79.github.io/react-project_read-journey/)  
+🆎 [ᒪEᗩᖇᑎ ᒪIᑎGO](https://morifer79.github.io/react-project_learn-lingo/)  
 🗓️ [QᑌIZZES](https://morifer79.github.io/react-project_quiz/)  
 🚥 [ᑕᖇᗰ ᑎE᙭T](https://next-crm-chi.vercel.app/companies)  
 🚙 [ᑕᗩᖇ ᖇEᑎTᗩᒪ](https://morifer79.github.io/project-car-rental/)  
