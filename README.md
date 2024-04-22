@@ -100,6 +100,7 @@
 🐱 [ᑕᗩT ᗷᖇEEᗪS](https://morifer79.github.io/cat-breed-search/)  
 
 ### ℍ𝕋𝕄𝕃/ℂ𝕊𝕊 𝕒𝕡𝕡𝕤:  
+📰 [ᑎEᗯS ᑕᗩST](https://morifer79.github.io/grid-project_news-cast/)   
 🚥 [ᑕᖇᗰ SᗩSS](https://morifer79.github.io/scss-project_crm/)   
 :octocat: [ᑕᗩT ᕼOᑌSE](https://morifer79.github.io/grid-project_cat-house/)   
 🌐 [ᗯEᗷ STᑌᗪIO](https://morifer79.github.io/web-studio/)   
