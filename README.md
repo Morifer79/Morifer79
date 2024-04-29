@@ -83,7 +83,7 @@
 <a href="https://github.com/YanaK93"><img src="https://img.shields.io/badge/YanaK93-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>  
 
 ### ℝ𝕖𝕒𝕔𝕥 𝕒𝕡𝕡𝕤:  
-📚 [ᖇEᗩᗪ ᒍOᑌᖇᑎEY](https://morifer79.github.io/react-project_read-journey/)  
+📖 [ᖇEᗩᗪ ᒍOᑌᖇᑎEY](https://morifer79.github.io/react-project_read-journey/)  
 🆎 [ᒪEᗩᖇᑎ ᒪIᑎGO](https://morifer79.github.io/react-project_learn-lingo/)  
 🗓️ [QᑌIZZES](https://morifer79.github.io/react-project_quiz/)  
 🚥 [ᑕᖇᗰ ᑎE᙭T](https://next-crm-chi.vercel.app/companies)  
@@ -100,7 +100,7 @@
 🐱 [ᑕᗩT ᗷᖇEEᗪS](https://morifer79.github.io/cat-breed-search/)  
 
 ### ℍ𝕋𝕄𝕃/ℂ𝕊𝕊 𝕒𝕡𝕡𝕤:  
-📰 [ᑎEᗯS ᑕᗩST](https://morifer79.github.io/grid-project_news-cast/)   
+📰 [ᑎEᗯS ᑕᗩST](https://morifer79.github.io/flex-project_news-cast/)   
 🚥 [ᑕᖇᗰ SᗩSS](https://morifer79.github.io/scss-project_crm/)   
 :octocat: [ᑕᗩT ᕼOᑌSE](https://morifer79.github.io/grid-project_cat-house/)   
 🌐 [ᗯEᗷ STᑌᗪIO](https://morifer79.github.io/web-studio/)   
