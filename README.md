@@ -83,27 +83,28 @@
 <a href="https://github.com/YanaK93"><img src="https://img.shields.io/badge/YanaK93-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>  
 
 ### ℝ𝕖𝕒𝕔𝕥 𝕒𝕡𝕡𝕤:  
-📖 [ᖇEᗩᗪ ᒍOᑌᖇᑎEY](https://morifer79.github.io/react-project_read-journey/)  
-🆎 [ᒪEᗩᖇᑎ ᒪIᑎGO](https://morifer79.github.io/react-project_learn-lingo/)  
-🗓️ [QᑌIZZES](https://morifer79.github.io/react-project_quiz/)  
-🚥 [ᑕᖇᗰ ᑎE᙭T](https://next-crm-chi.vercel.app/companies)  
-🚙 [ᑕᗩᖇ ᖇEᑎTᗩᒪ](https://morifer79.github.io/project-car-rental/)  
-📝 [ᑭᕼOᑎEᗷOOK](https://morifer79.github.io/react-phonebook_final/)  
-🎥 [ᖴIᒪᗰOTEᑕᗩ](https://morifer79.github.io/react-movie-search/)  
-📊 [ᖴEEᗪᗷᗩᑕK](https://morifer79.github.io/react-feedback_hooks/)  
-🕵️ [IᗰᗩGE ᖴIᑎᗪEᖇ](https://morifer79.github.io/react-image-search_hooks/)  
-🏗️ [ᑕOᗰᑭOᑎEᑎTS](https://morifer79.github.io/react-components/)
+🩸 [ᗰᕮᗪIᑕIᑎᕮ STOᖇᕮ](https://morifer79.github.io/react-project_admin-dashboard/)  
+📗 [ᖇᕮᗩᗪ ᒍOᑌᖇᑎᕮY](https://morifer79.github.io/react-project_read-journey/)  
+🆎 [ᒪᕮᗩᖇᑎ ᒪIᑎGO](https://morifer79.github.io/react-project_learn-lingo/)  
+🗓️ [QᑌIZZᕮS](https://morifer79.github.io/react-project_quiz/)  
+🚥 [ᑕᖇᗰ ᑎᕮ᙭T](https://next-crm-chi.vercel.app/companies)  
+🚙 [ᑕᗩᖇ ᖇᕮᑎTᗩᒪ](https://morifer79.github.io/project-car-rental/)  
+📝 [ᑭᕼOᑎᕮᗷOOK](https://morifer79.github.io/react-phonebook_final/)  
+🎥 [ᖴIᒪᗰOTᕮᑕᗩ](https://morifer79.github.io/react-movie-search/)  
+📊 [ᖴᕮᕮᗪᗷᗩᑕK](https://morifer79.github.io/react-feedback_hooks/)  
+🕵️ [IᗰᗩGᕮ ᖴIᑎᗪᕮᖇ](https://morifer79.github.io/react-image-search_hooks/)  
+🏗️ [ᑕOᗰᑭOᑎᕮᑎTS](https://morifer79.github.io/react-components/)
 
 ### 𝕁𝕊 𝕒𝕡𝕡𝕤:  
 🏝️ [ᑭOᖇTᖴOᒪIO](https://morifer79.github.io/my-portfolio/)  
-🔎 [SEᗩᖇᑕᕼ EᑎGIᑎE](https://morifer79.github.io/image-search)  
-🐱 [ᑕᗩT ᗷᖇEEᗪS](https://morifer79.github.io/cat-breed-search/)  
+🔎 [Sᕮᗩᖇᑕᕼ ᕮᑎGIᑎᕮ](https://morifer79.github.io/image-search)  
+🐱 [ᑕᗩT ᗷᖇᕮᕮᗪS](https://morifer79.github.io/cat-breed-search/)  
 
 ### ℍ𝕋𝕄𝕃/ℂ𝕊𝕊 𝕒𝕡𝕡𝕤:  
-📰 [ᑎEᗯS ᑕᗩST](https://morifer79.github.io/flex-project_news-cast/)   
+📰 [ᑎᕮᗯS ᑕᗩST](https://morifer79.github.io/flex-project_news-cast/)   
 🚥 [ᑕᖇᗰ SᗩSS](https://morifer79.github.io/scss-project_crm/)   
-:octocat: [ᑕᗩT ᕼOᑌSE](https://morifer79.github.io/grid-project_cat-house/)   
-🌐 [ᗯEᗷ STᑌᗪIO](https://morifer79.github.io/web-studio/)   
+:octocat: [ᑕᗩT ᕼOᑌSᕮ](https://morifer79.github.io/grid-project_cat-house/)   
+🌐 [ᗯᕮᗷ STᑌᗪIO](https://morifer79.github.io/web-studio/)   
 
 ### 𝕄𝕪 𝕒𝕡𝕡:  
-🗣️ [ᐯOIᑕE ᗩSSISTᗩᑎT](https://morifer79.github.io/maviAI/) 
+🗣️ [ᐯOIᑕᕮ ᗩSSISTᗩᑎT](https://morifer79.github.io/maviAI/) 
