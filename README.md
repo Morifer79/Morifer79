@@ -83,6 +83,7 @@
 <a href="https://github.com/YanaK93"><img src="https://img.shields.io/badge/YanaK93-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>  
 
 ### ℝ𝕖𝕒𝕔𝕥 𝕒𝕡𝕡𝕤:  
+🌴 [KᕮᑎYᗩᑎ ᑕOᑌᑎTIᕮS](https://morifer79.github.io/kenya-counties/)  
 🩸 [ᗰᕮᗪIᑕIᑎᕮ STOᖇᕮ](https://morifer79.github.io/react-project_admin-dashboard/)  
 📗 [ᖇᕮᗩᗪ ᒍOᑌᖇᑎᕮY](https://morifer79.github.io/react-project_read-journey/)  
 🆎 [ᒪᕮᗩᖇᑎ ᒪIᑎGO](https://morifer79.github.io/react-project_learn-lingo/)  
@@ -96,7 +97,7 @@
 🏗️ [ᑕOᗰᑭOᑎᕮᑎTS](https://morifer79.github.io/react-components/)
 
 ### 𝕁𝕊 𝕒𝕡𝕡𝕤:  
-🏝️ [ᑭOᖇTᖴOᒪIO](https://morifer79.github.io/my-portfolio/)  
+🧱 [ᑭOᖇTᖴOᒪIO](https://morifer79.github.io/my-portfolio/)  
 🔎 [Sᕮᗩᖇᑕᕼ ᕮᑎGIᑎᕮ](https://morifer79.github.io/image-search)  
 🐱 [ᑕᗩT ᗷᖇᕮᕮᗪS](https://morifer79.github.io/cat-breed-search/)  
 
